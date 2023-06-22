@@ -23,6 +23,3 @@ The referenced material used to edit this workshop is also recommended for furth
 - Bayesian Statistics and Modelling (van de Schoot et al., 2021), a very concise and well-readable primer (use first for further reading)
 - Bayesian Data Analysis (Gelman et al., 2003), a very comprehensive book (use for referencing)
 - Introduction to Probability and Statistics, MIT OpenCourseWare public lecture (use for covering the basics)
-
-*Software*
-- pymc
