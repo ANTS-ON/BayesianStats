@@ -1,5 +1,7 @@
-Workshop "Introduction to Bayesian Statistics"
+Introduction to Bayesian Statistics
 ---
+
+Short introduction to Bayesian statistics with a script and some exercises.
 
 ### Installation
 In order to execute the script and do the exercises, you need a virtual environment with several packages (`jupyter`, `pymc`, ...). You can simply create the environment by creating a virtual environment and installing packages from the `requirements.txt`.
