@@ -1,4 +1,4 @@
-Introduction to Bayesian Statistics
+Bayesian Statistics from Scratch
 ---
 
 Short introduction to Bayesian statistics with a script and some exercises.
